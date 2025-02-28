@@ -3,6 +3,10 @@
 ## Overview
 The **Credit Card Financial Report** is an interactive Power BI dashboard that provides real-time insights into transaction and customer data from a SQL database. The dashboard helps monitor key financial performance metrics, streamlines data processing and analysis, and provides stakeholders with actionable insights to support data-driven decision-making.
 
+## Preview
+![Credit_Card_Financial_Report](CustomerReport.jpg)
+![Credit_Card_Financial_Report](TransactionReport.jpg)
+
 ## Features
 - **Real-time Analytics**: Visualizes live data from the SQL database for up-to-date insights into credit card transactions.
 - **Interactive Dashboards**: Users can interact with the data to filter, drill down, and analyze metrics based on various dimensions (e.g., transaction type, customer profile, date ranges).
